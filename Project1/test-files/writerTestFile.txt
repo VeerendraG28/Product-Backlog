@@ -1,0 +1,4 @@
+# Panther Nation
+* 3,Backlog,Skydiving,F,Pouncey,unowned,false
+- [Backlog] Express carts always choose the shortest line. If there are multiple shortest lines, an express cart chooses the one with the smallest index.* 3,Backlog,Skydiving,F,Pouncey,unowned,false
+- [Backlog] Express carts always choose the shortest line. If there are multiple shortest lines, an express cart chooses the one with the smallest index.
